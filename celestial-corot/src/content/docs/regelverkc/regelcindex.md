@@ -1,0 +1,32 @@
+---
+title: C - SKYTEREGLER FOR SKIVESKYTING
+description: SKYTEREGLER FOR SKIVESKYTING
+# template : splash
+---
+
+#### 2024-2026
+
+###### Endringer i regelverket listes i tilhørende vedtekter i perioden mellom to Ting.
+###### Oppdaterte vedtekter ligger tilgjengelig på [NBFs hjemmesider](https://www.bueskyting.no/p/63612/lover%2c-regler-og-retningslinjer).
+###### <span style="color:red">Endringer besluttet innført på siste Ting er skrevet i rødt i dette dokumentet.</span>
+
+### Innholdsfortegnelse:
+
+1. [SKYTERUNDER](../regelc-kap1/)
+2. [BANEUTLEGG](../regelc-kap2/)
+3. [BANEUTSTYR](../regelc-kap3/)
+4. [SKYTTERUTSTYR](../regelc-kap4/)
+5. [SKYTING OG ADFERD](../regelc-kap5/)
+6. [SKYTERYTME OG TIDSKONTROLL](../regelc-kap6/)
+7. [MARKERING (SCORING)](../regelc-kap7/)
+8. [SKYTEKONTROLL OG SIKKERHET](../regelc-kap8/)
+9. [KONSEKVENSER VED REGELBRUDD](../regelc-kap9/)
+10. [TRENING](../regelc-kap10/)
+11. [TVIL OG UENIGHET](../regelc-kap11/)
+12. [LAGLEDELSE](../regelc-kap12/)
+13. [APPELL](../regelc-kap13/)
+14. [ANTREKKSBESTEMMELSER](../regelc-kap14/)
+15. [BUESKYTING FOR PERSONER MED NEDSATT FUNKSJONSEVNE](../regelc-kap15/)
+16. [PROTESTER](../regelc-kap16/)
+17. [SKIVEOPPSETT (TEGNINGER)](../regelc-kap17/)
+---
