@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://woodchukker.github.io',
-		base: '/tessite/',
+		base: '/testsite/',
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
