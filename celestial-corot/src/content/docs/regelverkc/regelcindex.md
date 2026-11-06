@@ -1,7 +1,7 @@
 ---
 title: C - SKYTEREGLER FOR SKIVESKYTING
-description: SKYTEREGLER FOR SKIVESKYTING
-# template : splash
+template : splash
+pagefind: false
 ---
 
 #### 2024-2026
