@@ -2,6 +2,8 @@ yaml
 name: Deploy Starlight to Pages
 
 on:
+# Trigger the workflow every time you push to the `main` branch
+# Using a different branch name? Replace `main` with your branch’s name
   push:
     branches: [ main ] # Change this to 'master' if your default branch uses that name
   workflow_dispatch: # Allows you to manually click "Run workflow" in the Actions tab
@@ -25,9 +27,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetches all history so Starlight's "Last Updated" feature functions properly
+        uses: actions/checkout@v7
+        #with:
+          #fetch-depth: 0 # Fetches all history so Starlight's "Last Updated" feature functions properly
 
       #- name: Setup Node.js
         #uses: actions/configure-pages@v5
@@ -50,7 +52,7 @@ jobs:
           #path: ./dist
           
       - name: Install, build, and upload your site
-        uses: withastro/action@v1
+        uses: withastro/action@v6
         # Pro-tip: If your website source code lives in a subfolder like /website, 
         # uncomment the line below:
         # with:
@@ -66,4 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
