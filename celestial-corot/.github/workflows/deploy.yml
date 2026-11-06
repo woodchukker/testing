@@ -6,17 +6,18 @@ on:
     branches: [ main ] # Change this to 'master' if your default branch uses that name
   workflow_dispatch:
 
+# Allow this job to clone the repo and create a page deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
-concurrency:
-  group: 'pages'
-  cancel-in-progress: true
+#concurrency:
+  #group: 'pages'
+  #cancel-in-progress: true
 
-env:
-  ASTRO_TELEMETRY_DISABLED: 1
+#env:
+  #ASTRO_TELEMETRY_DISABLED: 1
 
 jobs:
   build:
@@ -25,26 +26,35 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/configure-pages@v5
-
-      - name: Install Node.js dependencies
-        uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: npm # Change to pnpm or yarn if you use those managers
+          fetch-depth: 0 # Fetches all history so Starlight's "Last Updated" feature functions properly
 
-      - name: Install dependencies
-        run: npm ci
+      #- name: Setup Node.js
+        #uses: actions/configure-pages@v5
 
-      - name: Build site
-        run: npm run build
+      #- name: Install Node.js dependencies
+        #uses: actions/setup-node@v4
+        #with:
+          #node-version: 20
+          #cache: npm # Change to pnpm or yarn if you use those managers
 
-      - name: Upload production artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
+      #- name: Install dependencies
+        #run: npm ci
+
+      #- name: Build site
+        #run: npm run build
+
+      #- name: Upload production artifact
+        #uses: actions/upload-pages-artifact@v3
+        #with:
+          #path: ./dist
+          
+      - name: Install, build, and upload your site
+        uses: withastro/action@v1
+        # Pro-tip: If your website source code lives in a subfolder like /website, 
+        # uncomment the line below:
+        # with:
+        #   path: "./website"
 
   deploy:
     name: Deploy to GitHub Pages
