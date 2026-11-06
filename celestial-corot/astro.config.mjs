@@ -11,8 +11,9 @@ export default defineConfig({
 		starlight({
 			title: 'NBF Lov og regler',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			editLink:
+			editLink: {
 				baserUrl: 'https://woodchukker.github.io/testing',
+			},
 			sidebar: [
 				{
 					label: 'Regelverk C',
