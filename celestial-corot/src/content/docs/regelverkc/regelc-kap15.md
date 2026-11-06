@@ -69,7 +69,7 @@ x. Assistent (omtales ikke her, se eget pkt vedr assistent for VI)
 
 > a. Det er to divisjoner for VI-utøvere, VI1 og VI2/VI3. VI2/VI3-utøvere er de som har fått IBSA-archery klassifikasjon type B2 eller B3, som defineres basert på graden av hvor synets skarphet. Utøvere i VI1 skal bruke bind for øynene. Utøvere i VI2/VI3 skal ikke bruke bind for øynene. \
 Utøvere i begge VI-klassene skal bruke taktilt sikte (se bilde 2: eksempel på taktilt sikte). Ingen andre siktemidler er tillatt. \
-![Taktilt sikte](./Images/regelc-kap15-b1.jpg) \
+![Taktilt sikte](./images/regelc-kap15-b1.jpg) \
 _Bilde 2: Eksempel på taktilt sikte_
 >
 > b. Bind for øynene kan være i form av sovemaske, briller eller svømmebriller. Disse sjekkes av dommer under utstyrsinspeksjon og kan bli sjekket på nytt underveis i konkurransen. \
