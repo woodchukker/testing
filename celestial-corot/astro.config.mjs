@@ -20,7 +20,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Innholdsfortegnelse', slug: 'regelverkc/regelcindex'},
-						{ label: 'Sykterunder', slug: 'regelverkc/regelc-kap1'},
+						{ label: 'Skyterunder', slug: 'regelverkc/regelc-kap1'},
 						{ label: 'Baneutlegg', slug: 'regelverkc/regelc-kap2'},
 						{ label: 'Baneutstyr', slug: 'regelverkc/regelc-kap3'},
 						{ label: 'Syktterutstyr', slug: 'regelverkc/regelc-kap4'},

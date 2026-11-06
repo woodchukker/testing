@@ -13,16 +13,14 @@ hero:
     - text: World Archery Rule
       link: https://www.worldarchery.sport/rulebook
       icon: external
-      variant: minimal
     
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid stagger>
-	<Card title="Tingvedtak og regelverk" icon="pencil">
-		Les regler [her:](/testing/vedtakogregler/).
-	</Card>
+	<LinkCard title="Tingvedtak og regelverk" icon="pencil" href="/testing/vedtakogregler/">
+	</LinkCard>
 	<Card title="Change page layout" icon="document">
 		Delete `template: splash` in `src/content/docs/index.mdx` to display a
 		sidebar on this page.
