@@ -36,8 +36,7 @@ export default defineConfig({
 						{ label: 'Skiveopsett (Tegninger)', slug: 'regelverkc/regelc-kap17'},
 					],
 				},
-
-				{
+				/*{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
@@ -47,7 +46,7 @@ export default defineConfig({
 				{
 					label: 'Reference',
 					items: [{ autogenerate: { directory: 'reference' } }],
-				},
+				},*/
 			],
 		}),
 	],
