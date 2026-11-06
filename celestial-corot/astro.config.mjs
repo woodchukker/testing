@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	output: 'static', // Ensures compilation into plain HTML/CSS/JS
 	site: 'https://woodchukker.github.io',
-	base: '/testing/',
+	base: '/celestial-corot/',
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
