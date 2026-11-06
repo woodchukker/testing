@@ -1,66 +1,69 @@
-# Sample workflow for building and deploying an Astro site to GitHub Pages
-#
-# To get started with Astro see: https://docs.astro.build/en/getting-started/
-#
-name: Deploy Astro site to Pages
+name: Deploy Starlight to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+# Trigger the workflow every time you push to the `main` branch
+# Using a different branch name? Replace `main` with your branch’s name
   push:
-    branches: ["main"]
+    branches: [ main ] # Change this to 'master' if your default branch uses that name
+  workflow_dispatch: # Allows you to manually click "Run workflow" in the Actions tab
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Allow this job to clone the repo and create a page deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+#concurrency:
+  #group: 'pages'
+  #cancel-in-progress: true
+
+#env:
+  #ASTRO_TELEMETRY_DISABLED: 1
 
 jobs:
   build:
-    name: Build
+    name: Build Starlight Site
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: ${{ steps.detect-package-manager.outputs.manager }}
-          cache-dependency-path: ${{ env.BUILD_PATH }}/${{ steps.detect-package-manager.outputs.lockfile }}
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-      - name: Install dependencies
-        run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
-        working-directory: ${{ env.BUILD_PATH }}
-      - name: Build with Astro
-        run: |
-          ${{ steps.detect-package-manager.outputs.runner }} astro build \
-            --site "${{ steps.pages.outputs.origin }}" \
-            --base "${{ steps.pages.outputs.base_path }}"
-        working-directory: ${{ env.BUILD_PATH }}
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ${{ env.BUILD_PATH }}/dist
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        #with:
+          #fetch-depth: 0 # Fetches all history so Starlight's "Last Updated" feature functions properly
+
+      #- name: Setup Node.js
+        #uses: actions/configure-pages@v5
+
+      #- name: Install Node.js dependencies
+        #uses: actions/setup-node@v4
+        #with:
+          #node-version: 20
+          #cache: npm # Change to pnpm or yarn if you use those managers
+
+      #- name: Install dependencies
+        #run: npm ci
+
+      #- name: Build site
+        #run: npm run build
+
+      #- name: Upload production artifact
+        #uses: actions/upload-pages-artifact@v3
+        #with:
+          #path: ./dist
+          
+      - name: Install, build, and upload your site
+        uses: withastro/action@v6
+        # Pro-tip: If your website source code lives in a subfolder like /website, 
+        # uncomment the line below:
+        # with:
+        # path: "./celestial-corot"
 
   deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
