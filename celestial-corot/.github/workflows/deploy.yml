@@ -54,7 +54,7 @@ jobs:
         # Pro-tip: If your website source code lives in a subfolder like /website, 
         # uncomment the line below:
         # with:
-        #   path: "./website"
+        path: "./celestial-corot"
 
   deploy:
     name: Deploy to GitHub Pages
