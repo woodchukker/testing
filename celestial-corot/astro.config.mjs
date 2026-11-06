@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	output: 'static', // Ensures compilation into plain HTML/CSS/JS
 	site: 'https://woodchukker.github.io',
 		//base: '/testing/',
 	integrations: [
