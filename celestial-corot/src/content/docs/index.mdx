@@ -2,6 +2,8 @@
 title: Lov og regler
 template: splash
 pagefind: false
+lastUpdated: false
+editUrl: false
 hero:
   tagline: Velkommen til dommer side
   image:
@@ -10,17 +12,22 @@ hero:
     - text: NBFs Lov per 16.04.2026
       link: https://cdn-bloc.no/files/200000195/6846/2026/4/17/639120295599218401nbfs-lov-per-16.04.2026.pdf
       icon: external
+      variant: secondary
     - text: World Archery Rule
       link: https://www.worldarchery.sport/rulebook
       icon: external
+      variant: secondary
     
 ---
 
 import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid stagger>
-	<LinkCard title="Tingvedtak og regelverk" icon="pencil" href="/testing/vedtakogregler/">
-	</LinkCard>
+	<LinkCard
+        title="Tingvedtak og regelverk"
+        href="/testing/vedtakogregler/"
+        description="Les om vedtekter og regler her"
+	/>
 	<Card title="Change page layout" icon="document">
 		Delete `template: splash` in `src/content/docs/index.mdx` to display a
 		sidebar on this page.

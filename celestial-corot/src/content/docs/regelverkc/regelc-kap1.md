@@ -1,7 +1,8 @@
 ---
 title: 1. SKYTERUNDER
+lastUpdated: true
+editUrl: true
 ---
-
 #### [(Book 2 – kap. 4.7.)](https://www.worldarchery.sport/rulebook)
 
 ##### a\) Bare recurvedivisjonen kan delta i de Olympiske Leker.
