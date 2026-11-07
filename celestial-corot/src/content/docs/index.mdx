@@ -9,11 +9,7 @@ hero:
   image:
     file: ../../assets/magnify.png
   actions:
-    - text: NBFs Lov per 16.04.2026
-      link: https://cdn-bloc.no/files/200000195/6846/2026/4/17/639120295599218401nbfs-lov-per-16.04.2026.pdf
-      icon: external
-      variant: secondary
-    - text: World Archery Rule
+    - text: World Archery Rulebook
       link: https://www.worldarchery.sport/rulebook
       icon: external
       variant: secondary
@@ -22,28 +18,24 @@ hero:
 
 import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
 
-<CardGrid stagger>
+<CardGrid>
 	<LinkCard
-        title="Tingvedtak og regelverk"
-        href="/testing/vedtakogregler/"
-        description="Les om vedtekter og regler her"
+    title="NBFs Lov per 16.04.2026"
+    href="https://cdn-bloc.no/files/200000195/6846/2026/4/17/639120295599218401nbfs-lov-per-16.04.2026.pdf"
 	/>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+	<LinkCard
+    title="Tingvedtak og regelverk"
+    href="/testing/vedtakogregler/"
+	/>
+  <LinkCard
+    title="Andre regelverk og retningslinjer"
+    href="/testing/vedtakogregler/"
+	/>
+  <LinkCard
+    title="Diverse dokumenter"
+    href="/testing/vedtakogregler/"
+	/>
 </CardGrid>
-
-[NBFs Lov per 16.04.2026](https://cdn-bloc.no/files/200000195/6846/2026/4/17/639120295599218401nbfs-lov-per-16.04.2026.pdf)
 
 ## Tingvedtak og regelverk
 

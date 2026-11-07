@@ -1,0 +1,137 @@
+---
+title: Ny Avstandstabell Skive Innendørs 2026
+template : splash
+pagefind: false
+---
+# Avstandstabeller nye klasser - ordinære stevner, gjeldende fra innesesongen høsten 2026
+#### (offisielt sesongskifte er fra 21.10.2026)
+
+> | Klassinndeling | Benevning |
+> | :------------: | :-------- |
+> | M | Damer/Herrer/50/U21/U18 Mass |
+> | 50| Damer/Herrer f.o.m 50 år |
+> | Sr | Damer/Herrer Senior |
+> | U21 | Damer/Herrer t.o.m 20 år |
+> | U18 | Damer/Herrer t.o.m 17 år |
+> | U15 | Jenter/Gutter t.o.m 14 år |
+> | U13 | Jenter/Gutter t.o.m 12 år |
+> | U11 | Jenter/Gutter t.o.m 10 år |
+> | VI | Visually Impaired |
+> | OC | Open Class for utøvere med behov for tilpassing |
+> | |
+> | Divisioner | Benevning |
+> | B | Barebow |
+> | C | Compund |
+> | LB | Langbue |
+> | R | Recurve |
+> | T | Tradisjonell bue |
+>>
+>> På ordinære stevner brukes kjønnsnøytrale klasser. \
+Skyttere starter i den klassen der de aldersmessig hører hjemme. \
+Fra og med det året man fyller 15 år, kan skyttere stille i klassen M ved ordinære stevner (ikke mesterskap). \
+Skyttere i ungdomsklassene kan stille i en høyere klasse enn der de aldersmessig hører hjemme. Dette gjelder ikke for U11. \
+Skyttere i 50-årsklassen kan stille i seniorklassen. \
+Skyttere som stiller i en annen klasse enn der de aldersmessig hører hjemme, følger premiering for den klassen de stiller i. \
+Skyttere kan sette rekord i egen aldersbestemt klasse, samt i høyere alderstrinn dersom skytteren deltar i denne klassen. \
+Skyttere som har skutt opprykkskrav på to stevner i samme sesong, kan ikke stille i klassen M ved senere stevner. \
+Skyttere som har deltatt på minst to stevner innenfor en sesong, uten å ha skutt over opprykkskrav, kan igjen stille i M fra neste sesong. Dette gjelder også for skyttere som bytter divisjon, eller som har vært ute av idretten i tre år eller mer. \
+For trans-/ikke-binære personer gjelder NIFs regler
+
+> | **Recurve** | | | | |
+> | :----- | :--- | :--- | :--- | :--- |
+> | Klasse | 25 m | 18 m | 16 m | 12 m |
+> | RM | 80 cm 1-10 | 60 cm 1-10 | | |
+> | R50 | 60 cm 1-10/trippel | 40 cm 1-10/trippel | | |
+> | RSr | 60 cm 1-10/trippel | 40 cm 1-10/trippel | | |
+> | RU21 | 60 cm 1-10/trippel | 40 cm 1-10/trippel | | |
+> | RU18 | 60 cm 1-10/trippel | 40 cm 1-10/trippel | | |
+> | RU15 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | RU13 | | | 80 cm 1-10 | 60 cm 1-10 |
+> | |
+> | **Compund** | | | | |
+> | Klasse | 25 m | 18 m | 16 m | 12 m |
+> | CM | 80 cm 5-10 | 60 cm trippel | | |
+> | C50 | 60 cm trippel | 40 cm trippel | | |
+> | CSr | 60 cm trippel | 40 cm trippel | | |
+> | CU21 | 60 cm trippel | 40 cm trippel | | |
+> | CU18 | 60 cm trippel | 40 cm trippel | | |
+> | CU15 | 80 cm 5-10 | 60 cm trippel | | |
+> | CU13 | | | 80 cm 5-10 | 60 cm trippel |
+> | |
+> | **Barebow** | | | | |
+> | Klasse | 25 m | 18 m | 16 m | 12 m |
+> | BM | 80 cm 1-10 | 60 cm 1-10 | | |
+> | B50 | 60 cm 1-10 | 40 cm 1-10 | | |
+> | BSr | 60 cm 1-10 | 40 cm 1-10 | | |
+> | BU21 | 60 cm 1-10 | 40 cm 1-10 | | |
+> | BU18 | 60 cm 1-10 | 40 cm 1-10 | | |
+> | BU15 | 60 cm 1-10 | 60 cm 1-10 | | |
+> | BU13 | | | 80 cm 1-10 | 60 cm 1-10 |
+> | |
+> | **Longbue** | | | | |
+> | Klasse | 25 m | 18 m | 16 m | 12 m |
+> | LBM | 80 cm 1-10 | 60 cm 1-10 | | |
+> | L50 | 60 cm 1-10 | 40 cm 1-10 | | |
+> | LSr | 60 cm 1-10 | 40 cm 1-10 | | |
+> | LU21 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | LU18 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | LU15 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | LU13 | | | 80 cm 1-10 | 60 cm 1-10 |
+> | |
+> | **Tradisjonell bue** | | | | |
+> | Klasse | 25 m | 18 m | 16 m | 12 m |
+> | TM | 80 cm 1-10 | 60 cm 1-10 | | |
+> | T50 | 60 cm 1-10 | 40 cm 1-10 | | |
+> | TSr | 60 cm 1-10 | 40 cm 1-10 | | |
+> | TU21 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | TU18 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | TU15 | 80 cm 1-10 | 60 cm 1-10 | | |
+> | TU13 | | | 80 cm 1-10 | 60 cm 1-10 |
+> | |
+> | **Øvrige** | | | | |
+> | Klasse | 25 m | 18 m | 16 m | 12 m |
+> | U11 | | | 80 cm 1-10 | 60 cm 1-10 |
+> | VI | 80 cm 1-10 | 60 cm 1-10 | | |
+> | OC | | | 80 cm 1-10 | 60 cm 1-10/trippel |
+>
+>> Skyttere i R, U11 og OC kan forespørre trippel skive, men arrangøren forbeholdes retten til å avgjøre ut ifra hva som er hensiktsmessig mtp matteoppsett og tilgjengelighet. \
+Dette gjelder både for vertikal trippel eller Vegas. \
+Ved uoverensstemmelse mellom mattens skyttere, så skal det brukes full skive.
+
+#### Opprykskrav 60/30 piler
+> | **Recurve** | |
+> | :----- | :-: |
+> | Fra RM | |
+> | 80cm/25m | 500/250 |
+> | 60cm/25m | 530/265 |
+> | 60cm/18m | 500/250 |
+> | 60cm/18m | 530/265 |
+> | |
+> | **Compund** | |
+> | Fra CM  | |
+> | 80cm/25m | 520/260 |
+> | 60cm/25m | 540/270 |
+> | 60cm/18m | 520/260 |
+> | 60cm/18m | 540/270 |
+> | |
+> | **Barebow** | |
+> | Fra BM  | |
+> | 80cm/25m | 480/240 |
+> | 60cm/25m | 480/240 |
+> | 60cm/18m | 480/240 |
+> | 60cm/18m | 480/240 |
+> | |
+> | **Longbue** | |
+> | Fra LM  | |
+> | 80cm/25m | 420/210 |
+> | 60cm/25m | 420/210 |
+> | 60cm/18m | 420/210 |
+> | 60cm/18m | 420/210 |
+> | |
+> | **Tradisjonell bue** | |
+> | Fra TM  | |
+> | 80cm/25m | 460/230 |
+> | 60cm/25m | 460/230 |
+> | 60cm/18m | 460/230 |
+> | 60cm/18m | 460/230 |
+---

@@ -4,50 +4,47 @@ template: splash
 pagefind: false
 lastUpdated: false
 editUrl: false
-hero:
-  actions:
-    - text: Tingvedtak - B
-      link: https://at.bloc.net/Ac6QQYyxJ3BjEui5A
-      icon: external
-    - text: Vedtekter Tingvedtak B 2024-2026
-      link: https://at.bloc.net/CVwa5Px2nre7aCLv9
-      icon: external
-    - text: Regelverk C - Skiveskyting
-      link: /testing/regelverkc/regelcindex/
-      icon: right-arrow
-    - text: Vedtekter C - Skiveskyting 2024-2026
-      link: https://www.bueskyting.no/old/storage/Preview?id=6ac9bff1-5364-48cb-bf65-cd1cc0cbb5fb
-      icon: external
-    - text: Regelverk D - Skogsskyting
-      link: https://at.bloc.net/vqwDDQhsd5HmL4zk9
-      icon: right-arrow
-    
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
 
-<CardGrid stagger>
-	<Card title="Regelverk C - Skiveskyting" icon="pencil">
-		Les regler [her:](/testing/regelverkc/regelcindex/).
-	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+<CardGrid>
+	<LinkCard
+    title="Tingvedtak - B"
+		href="/testing/regelverkc/regelcindex/"
+	/>
+  <LinkCard
+    title="Vedtekter Tingvedtak B 2024-2026"
+		href="/testing/regelverkc/regelcindex/"
+	/>
+	<LinkCard
+    title="Regelverk C - Skiveskyting"
+		href="/testing/regelverkc/regelcindex/"
+	/>
+  <LinkCard
+    title="Vedtekter C - Skiveskyting 2024-2026"
+		href="/testing/regelverkc/regelcindex/"
+	/>
+  <LinkCard
+    title="Vedtekter D - Skogsskyting"
+		href="/testing/regelverkc/regelcindex/"
+	/>
 </CardGrid>
-
-[Ny Avstandstabell Skive Innendørs 2026](./Avstand-inne.md) \
-[Avstandstabell Mesterskap Skog 2024/25](https://www.bueskyting.no/old/storage/Preview?id=4928a044-5ed4-47b4-a306-9d23df87fe10) \
-[Avstandstabell Nye Klasser Skive Mesterskap 2026](https://www.bueskyting.no/next/storage/preview/9c8499e5-d54b-4960-9aae-d8884c67c917)
+---
+<CardGrid>
+  <LinkCard
+    title="Ny Avstandstabell Skive Innendørs 2026"
+		href="/testing/avstander/avstand-inne/"
+	/>
+ <LinkCard
+    title="Avstandstabell Mesterskap Skog 2024/25"
+		href="https://www.bueskyting.no/old/storage/Preview?id=4928a044-5ed4-47b4-a306-9d23df87fe10"
+	/>
+ <LinkCard
+    title="Avstandstabell Nye Klasser Skive Mesterskap 2026"
+		href="https://www.bueskyting.no/next/storage/preview/9c8499e5-d54b-4960-9aae-d8884c67c917"
+	/>
+</CardGrid>
 
 ## Andre regelverk og retningslinjer
 
