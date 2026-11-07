@@ -19,13 +19,15 @@ export default defineConfig({
       				label: 'Vedtak og Regler',
       				items: [
   				    	{
-							label: 'Regelver B',
+							label: 'Regelverk B',
+							collapsed: true,
 							items: [
 								{label: 'Innholdsfortegnelse', slug: 'vedtakogregler/regelverkb/regelbindex' },
 							],
 						},
 						{
 							label: 'Regelverk C',
+							collapsed: true,
 							items: [
 								{ label: 'Innholdsfortegnelse', slug: 'vedtakogregler/regelverkc/regelcindex'},
 								{ label: 'Skyterunder', slug: 'vedtakogregler/regelverkc/regelc-kap1'},
@@ -48,13 +50,15 @@ export default defineConfig({
 							],
 						},
  				    	{
-							label: 'Regelver D',
+							label: 'Regelverk D',
+							collapsed: true,
 							items: [
 								{label: 'Innholdsfortegnelse', slug: 'vedtakogregler/regelverkd/regeldindex' },
 								],
 						},
  				    	{
 							label: 'Avstander',
+							collapsed: true,
 							items: [
 								{label: 'Skive innendørs', slug: 'vedtakogregler/avstander/avstand-inne' },
 								],
