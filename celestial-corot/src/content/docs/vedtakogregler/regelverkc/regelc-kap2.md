@@ -1,5 +1,7 @@
 ---
 title: 2. BANEUTLEGG
+lastUpdated: true
+editUrl: true
 ---
 
 #### [(Book 2, art. 7.1)](https://www.worldarchery.sport/rulebook)

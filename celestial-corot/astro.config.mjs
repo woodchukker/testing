@@ -16,6 +16,13 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'Regelver B',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Innholdsfortegnelse', slug: 'vedtakogregler/regelverkb/regelbindex' },
+					],
+				},
+				{
 					label: 'Regelverk C',
 					items: [
 						// Each item here is one entry in the navigation menu.
@@ -39,17 +46,20 @@ export default defineConfig({
 						{ label: 'Skiveopsett (Tegninger)', slug: 'vedtakogregler/regelverkc/regelc-kap17'},
 					],
 				},
-				/*{
-					label: 'Guides',
+				{
+					label: 'Regelver D',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Innholdsfortegnelse', slug: 'vedtakogregler/regelverkd/regeldindex' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
-				},*/
+					label: 'Avstander',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Skive innendørs', slug: 'vedtakogregler/avstander/avstand-inne' },
+					],
+				},
 			],
 		}),
 	],

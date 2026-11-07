@@ -1,6 +1,6 @@
 ---
 title: C - SKYTEREGLER FOR SKIVESKYTING
-template : splash
+#template : splash
 pagefind: false
 ---
 

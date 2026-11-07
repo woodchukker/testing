@@ -1,3 +1,3 @@
 ---
-title: Regl B
+title: Regelverk B
 ---

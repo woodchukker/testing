@@ -1,6 +1,6 @@
 ---
 title: Ny Avstandstabell Skive Innendørs 2026
-template : splash
+#template : splash
 pagefind: false
 ---
 # Avstandstabeller nye klasser - ordinære stevner, gjeldende fra innesesongen høsten 2026
