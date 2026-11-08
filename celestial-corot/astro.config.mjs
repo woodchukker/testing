@@ -66,6 +66,9 @@ export default defineConfig({
 									collapsed: true,
 									items: [
 										{label: 'Skive innendørs', slug: 'vedtakogregler/avstander/avstand-inne' },
+										{label: 'Skive innendørs (Tabbed)', slug: 'vedtakogregler/avstander/avstand-inne-tab',
+											badge: {text: 'Experiment', variant: 'danger'}
+											},
 										],
 								},
 							],
