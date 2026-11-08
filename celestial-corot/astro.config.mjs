@@ -19,7 +19,15 @@ export default defineConfig({
 					label: 'Lov og regler',
 					items: [
 						{
+							label: 'NBFs Lov',
+							collapsed: true,
+							items: [
+								{label: 'Innholdsfortegnelse', slug: 'nbfregler/nbfindex' },
+							],
+						},
+						{
 							label: 'Vedtak og Regler',
+							collapsed: true,
 							items: [
 								{
 									label: 'Regelverk B',
