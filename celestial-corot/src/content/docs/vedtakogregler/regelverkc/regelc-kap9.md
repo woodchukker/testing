@@ -17,10 +17,10 @@ lastUpdated: true
 ##### f\) En skytter eller et lag som gjentatte ganger skyter flere piler i serien enn tillatt, kan bli diskvalifisert.
 
 ##### g\) En skytter som bevisst har brutt regler og bestemmelser, kan bli kjent uverdig for deltakelse og dermed bli diskvalifisert og miste den plassering han måtte ha oppnådd.
->
-> - Usportslig opptreden skal ikke tolereres. Slik opptreden fra skytter eller en som ansees å assistere en skytter, skal resultere i diskvalifikasjon av skytteren og kan i tillegg medføre utestenging fra fremtidige konkurranser.
-> - Enhver skytter som uten autorisasjon endrer eller forfalsker et resultat, eller bevisst besørger endring eller forfalskning av resultatet, skal diskvalifiseres.
-> - Hvis en skytter gjentatte ganger trekker ut piler fra skiven før markering (scoring)har funnet sted, kan diskvalifiseres.
+
+- Usportslig opptreden skal ikke tolereres. Slik opptreden fra skytter eller en som ansees å assistere en skytter, skal resultere i diskvalifikasjon av skytteren og kan i tillegg medføre utestenging fra fremtidige konkurranser.
+- Enhver skytter som uten autorisasjon endrer eller forfalsker et resultat, eller bevisst besørger endring eller forfalskning av resultatet, skal diskvalifiseres.
+- Hvis en skytter gjentatte ganger trekker ut piler fra skiven før markering (scoring)har funnet sted, kan diskvalifiseres.
 
 ##### h\) Hvis en skytter fortsetter å benytte en teknikk som etter dommernes mening er farlig, vil straks bli bedt av hoveddommer og/eller skyteleder om å stoppe skytingen umiddelbart, og vil bli diskvalifisert.
 

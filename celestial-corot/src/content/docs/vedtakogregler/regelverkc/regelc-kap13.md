@@ -8,7 +8,7 @@ title: 13. APPELL
 
 ##### a\) En dommers avgjørelse vedrørende scoren til en pil som fortsatt står i skiven, er endelig.
 
-##### b\)En dommers avgjørelse knyttet til bruk av gult kort i lagkonkurransen, er endelig.
+##### b\) En dommers avgjørelse knyttet til bruk av gult kort i lagkonkurransen, er endelig.
 
 ##### c\) En juryavgjørelse er endelig og kan ikke appelleres.
 ---
