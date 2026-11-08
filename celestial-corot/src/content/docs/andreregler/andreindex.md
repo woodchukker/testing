@@ -1,6 +1,7 @@
 ---
 title: Andre regelverk og retningslinjer
 editUrl: false
+prev: false
 ---
 
 [Nordiske regler - NUM](https://www.bueskyting.no/old/storage/Preview?id=80a2d471-2a9a-4bfe-a210-f28c333c0a09) \

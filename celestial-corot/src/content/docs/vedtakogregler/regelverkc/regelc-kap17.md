@@ -1,5 +1,6 @@
 ---
 title: 17. SKIVEOPPSETT (TEGNINGER)
+next: false
 ---
 
 ### Eksempler på skiveoppsett utendørs:
