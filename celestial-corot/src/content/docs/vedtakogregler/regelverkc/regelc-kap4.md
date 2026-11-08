@@ -152,7 +152,7 @@ Ansiktsklatring er tillatt, men strengklatring er ikke tillatt.
 Formen på grepet er valgfri og senterskytende bue er tillatt. \
 I sikteområdet skal ikke buen ha fremspring, merker, sikte eller siktemerker, skrammer, lamineringsdeler e.l. som kan benyttes til sikting.
 >
-> 2\) For damer, <span style="color:red">U21 og yngre klasser</span> skal buen være minimum 150 cm lang, for herrer minimum 160 cm lang. Lengden måles på oppspent bue mellom strengnockene langs buelemmenes utside.
+> 2\) For damer, <span style="color:red"><b>U21 og yngre klasser</b></span> skal buen være minimum 150 cm lang, for herrer minimum 160 cm lang. Lengden måles på oppspent bue mellom strengnockene langs buelemmenes utside.
 >
 > 3\) En buestreng – som beskrevet under tradisjonelldivisjonen ovenfor. I tillegg er det tillatt med strengdempere som ikke er plassert nærmere nockpunktet enn 30cm
 >

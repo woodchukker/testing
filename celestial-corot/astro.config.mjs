@@ -36,7 +36,9 @@ export default defineConfig({
 										{ label: 'Skyterunder', slug: 'vedtakogregler/regelverkc/regelc-kap1'},
 										{ label: 'Baneutlegg', slug: 'vedtakogregler/regelverkc/regelc-kap2'},
 										{ label: 'Baneutstyr', slug: 'vedtakogregler/regelverkc/regelc-kap3'},
-										{ label: 'Syktterutstyr', slug: 'vedtakogregler/regelverkc/regelc-kap4'},
+										{ label: 'Syktterutstyr', slug: 'vedtakogregler/regelverkc/regelc-kap4',
+											badge: {text: 'oppdatert', variant: 'caution'}
+											},
 										{ label: 'Sykting og adferd', slug: 'vedtakogregler/regelverkc/regelc-kap5'},
 										{ label: 'Sykterytme og tidskontrol', slug: 'vedtakogregler/regelverkc/regelc-kap6'},
 										{ label: 'Merkering (Scoring)', slug: 'vedtakogregler/regelverkc/regelc-kap7'},
