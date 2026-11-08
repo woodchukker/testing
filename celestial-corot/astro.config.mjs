@@ -12,7 +12,7 @@ export default defineConfig({
 			title: 'NBF Lov og regler',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			editLink: {
-				baserUrl: 'https://github.com/woodchukker/testing/celestial-corot/edit/main/docs/',
+				baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
 			},
 			sidebar: [
 				 {
