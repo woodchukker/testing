@@ -1,5 +1,6 @@
 ---
-title: 12. LAGLEDELSElastUpdated: true
+title: 12. LAGLEDELSE
+lastUpdated: true
 ---
 
 #### [(Book 3 – art. 18)](https://www.worldarchery.sport/rulebook)
