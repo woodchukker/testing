@@ -1,10 +1,11 @@
 ---
 title: 3. BANEUTSTYR
+lastUpdated: true
 ---
 
 #### [(Book 2, art. 7.2.)](https://www.worldarchery.sport/rulebook)
 
-##### a) Matter.
+### a) Matter.
 
 > 1. Størrelsen på mattenes forside, enten runde eller firkantede, skal være store nok til å sikre at en pil som treffer matten og så vidt er utenfor ytterste poenggivende sone, skal bli stående i matten slik at scoringen kan bli tilfredsstillende. \
 Mattene skal plugges forsvarlig til bakken for å hindre at de skal blåse overende i vind eller dratt overende ved trekking av piler. Enhver del av en matte som vil kunne skade en pil, skal dekkes til. \
@@ -12,7 +13,7 @@ Ved bruk av flere skiver på mattene må disse plasseres slik at piler som treng
 >
 > 2. Mattene skal ha nummerskilt. Numrene skal utendørs være min. 30cm høye og innendørs min. 15cm høye. Numrene skal festes rett over eller under midten på hver matte - uten å dekke noen del av skiven.
 
-##### b) Skiver.
+### b) Skiver.
 > Det er tre skiver for vanlig utendørsskyting;
 >>
 >> 122cm skive = 122cm i diameter \
@@ -109,11 +110,11 @@ Det er en forskjell mellom regulære triple skiver og recurve (R)og compound (C)
 >
 > For compound spesielt er det bare innerringen som teller 10 poeng, resten av det gule området teller 9 poeng.
 
-##### c) Materialet i skivene.
+### c) Materialet i skivene.
 > Skiver kan lages av papir, eller annet passende materiale. \
 Alle skiver som benyttes i samme konkurranseklasse skal være ensartet med hensyn til farger og være av samme materialet.
 
-##### d) Skivestørrelser og skiveoppsett utendørs.
+### d) Skivestørrelser og skiveoppsett utendørs.
 > For avstandene 90, 70, 60m (og 50m for U18 jenter) skal 122-cm skiven benyttes. \
 For avstandene 50,40 og 30m skal 80-cm skiven benyttes.
 >>
@@ -128,7 +129,7 @@ For avstandene 50,40 og 30m skal 80-cm skiven benyttes.
 >>
 >> 5) I lagkonkurransen skal hvert lag ha en matte med to skiver satt opp horisontalt, en skive for tre piler. <br> Skytterne kan velge hvor de vil skyte, men det skal ikke være mer enn tre piler i hver skive. <br> (Bestemmelsene for mix-lag er fjernet, da man ikke skyter mix-lag i Norge).
 
-##### e) Skivestørrelser og skiveoppsett innendørs.
+### e) Skivestørrelser og skiveoppsett innendørs.
 >
 >Ved skyting på 25m skal 60cm skive benyttes og ved skyting på 18m skal 40cm skive benyttes. \
 >
@@ -154,7 +155,7 @@ Med fire vertikale trippelskiver skal det alltid være minst 10cm mellom trippel
 >> 4) Ved bruk av to vertikale trippelskiver skal det være en avstand på minst 25cm mellom trippelskivene. \
 Oppsett med én vertikal trippelskive som settes opp horisontalt (shoot-off for lag) så skal skivens sentre være 130cm over gulvet (± 2 cm).
 
-##### f) Utstyr for tidskontroll.
+### f) Utstyr for tidskontroll.
 > Akustisk (hørbar) og visuelt. \
 Skyteleder skal kontrollere skytingen med en fløyte eller annet instrument som gir hørbart lydsignal.
 >
@@ -181,7 +182,7 @@ Når tidsfristen reguleres av elektrisk utstyr, må plater, flagg eller annet ma
 >>
 >> - Lyssignaler og/eller digitalur og reserveutstyr er påbudt ved internasjonale konkurranser.
 
-##### g) Annet utstyr.
+### g) Annet utstyr.
 >
 > Følgende utstyr er påbudt ved internasjonale konkurranser og anbefales for andre stevner av betydning.
 >>

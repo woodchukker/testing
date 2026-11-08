@@ -1,5 +1,6 @@
 ---
 title: 8. SKYTEKONTROLL OG SIKKERHET
+lastUpdated: true
 ---
 
 #### [(Book 2 – Kap. 10)](https://www.worldarchery.sport/rulebook)

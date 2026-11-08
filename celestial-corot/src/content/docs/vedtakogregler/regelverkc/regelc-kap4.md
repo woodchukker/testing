@@ -1,5 +1,6 @@
 ---
 title: 4. SKYTTERUTSTYR
+lastUpdated: true
 ---
 
 #### [(Book 3, art. 11)](https://www.worldarchery.sport/rulebook)
@@ -10,7 +11,8 @@ Nedenfor beskrives de bestemmelser som gjelder for hver divisjon og deretter de 
 
 Det finnes egne regler for para-stevner. Ref WA art. 21.
 
-##### a) For **Recurve-divisjonen** er følgende utstyr tillatt:
+### a) For Recurve-divisjonen
+#### er følgende utstyr tillatt:
 
 > 1\) Bue av enhver type kan brukes forutsatt at den tilsvarer det aksepterte prinsipp og betydningen av ordet bue slik den brukes i skiveskyting, det vil si et instrument som består av et håndtak (grep), en forlengelse av dette (midtseksjonen) og to fleksible lemmer som hver ender i en tupp med nokk til bue strengen. Midtseksjonen kan ikke være splittet for ”gjennomskyting”. \
 For bruk er buen strenget med en enkelt buestreng som bare er spent direkte mellom buens streng-nokker. For bruk holdes buen i håndtaket med én hånd mens den annen hånds fingre trekker og slipper strengen. Det er tillatt å ha flerfarget midtstykke og varemerker på innsiden av buelemmene og på midtstykket. \
@@ -62,7 +64,8 @@ Ordinære briller som er nødvendige såvel som anerkjente skytebriller og solbr
 > 11\) Tilbehør er tillatt, slik som armbeskyttere, brystskjold, håndslynge, fingerslynge, belte- eller markkogger. Vindindikatorer som ikke er elektriske eller elektroniske, kan brukes på skytelinjen. \
 Man kan ha en innretning som hever foten/føttene eller en del av den, festet til skoen eller frittstående, såfremt denne ikke medfører noen hindring for andre skyttere på skytelinjen og ikke strekker seg mer enn 2cm utover fotavtrykket.
 
-##### b) For **Compound Divisjon** er følgende utstyr beskrevet; og alt annet tilleggsutstyr tillatt, med mindre de er elektriske eller elektroniske, er i strid med sikkerheten eller skaper unødig forstyrrelse for medskyttere.
+### b) For Compound Divisjon
+#### er følgende utstyr beskrevet; og alt annet tilleggsutstyr tillatt, med mindre de er elektriske eller elektroniske, er i strid med sikkerheten eller skaper unødig forstyrrelse for medskyttere.
 
 > 1\) En compoundbue, som gjerne kan være konstruert slik at man kan skyte gjennom midtseksjonen, der opptrekket varierer mekanisk ved hjelp av et system av trinser og /eller "kammer". \
 Buen strenges for bruk enten ved en enkel buestreng festet direkte mellom de to strengnokkene på buelemmene, til kammene, eller til buekabelen - i henhold til buens design. Trekkraften må ikke overstige 60 pund.  Hjelpemidler for å holde kabelen til side fra strengen, er tillatt. \
@@ -83,7 +86,8 @@ Det kan benyttes en fiberoptisk siktenål og/eller en kjemisk glødepinne. Glød
 >
 > 8\) Når det gjelder piler, briller og kikkerter etc, og annet tilbehør, gjelder samme regler som for recurve ovenfor.
 
-##### c) I **Barebow-divisjonen** er følgende utstyr tillatt:
+### c) I Barebow-divisjonen
+#### er følgende utstyr tillatt:
 >
 > 1\) En bue av enhver type kan brukes forutsatt at den tilsvarer det aksepterte prinsipp og meningen med ordet bue som beskrevet under recurve ovenfor.
 >
@@ -110,7 +114,8 @@ Buen må passere en ring på 12,2 cm uten at demper blir bøyd på noe vis.
 >
 > 8\) Reglene om kikkerter/teleskop og annet tilleggsutstyr er de samme som for recurve ovenfor.
 
-##### d\) For **Tradisjonell-divisjonen*** er følgende utstyr tillatt:
+### d\) For Tradisjonell-divisjonen
+#### er følgende utstyr tillatt:
 >
 > 1\) En bue av enhver type kan brukes forutsatt at den tilsvarer det aksepterte prinsipp og meningen med ordet bue som beskrevet under recurve ovenfor, bestående av et midtstykke (uten mulighet for gjennomskyting/«shootthrough»). \
 Midtstykket er av en laminert konstruksjon og inkluderer tre-laminat, eller ett stykke tre. \
@@ -140,7 +145,8 @@ Ansiktsklatring er tillatt, men strengklatring er ikke tillatt.
 >
 > 10\) Kikkert m.v. og øvrig utstyr – i likhet med barebow ovenfor, dog kan ikke et pilkogger være festet til buen.  
 
-##### e) For **Langbue-divisjonen** er følgende utstyr tillatt:
+### e) For Langbue-divisjonen
+#### er følgende utstyr tillatt:
 
 > 1\) Langbuen skal være konstruert i overensstemmelse med den tradisjonelle formen av en langbue, noe som innebærer at strengen ikke skal berøre noen annen del av buen enn strengnockene når den er oppspent. Buen kan være sammenleggbar i to deler av samme lengde og laget av valgfritt materiale eller kombinasjoner av materialer. \
 Formen på grepet er valgfri og senterskytende bue er tillatt. \
@@ -167,7 +173,8 @@ Ingen annen pilhylle er tillatt.
 >
 > 9\) Ankringsplate eller tilsvarende, festet på fingerbeskyttelsen, med det formål å ankre, er ikke tillatt. Man må benytte enten “Middelhavsgrep” (en finger over pilnocken – splitfinger), eller tre finger like under pilnocken (med pekefinger maksimalt 2mm under pilnock), med fast ankringspunkt. Man må velge en av disse, man kan ikke bruke begge metoder. Ved bruk av 3 fingre under pilnock må fingerbeskyttelsen ha sammenhengende overflate, eller være festet på en måte som forhindrer bruk av splitfinger. Ved skyting med middelhavsgrep kan fingerspreder benyttes.
 
-##### f\) For skyttere i alle divisjoner gjelder følgende:
+### f\) For alle divisjoner
+#### gjelder følgende for skytere:
 >
 >Det er ikke tillatt å ha noen elektrisk eller elektronisk innretning knyttet til skyteutstyret. \
 Det er heller ikke tillatt å ha utstyr for elektronisk kommunikasjon, hodetelefoner (headsets) eller noen støydempende hjelpemidler foran ventelinjen – dog er det tillatt å bruke elektronikk med software som bare tillater skytter å plotte inn treff, som man ville gjort på papir for samme formål. \

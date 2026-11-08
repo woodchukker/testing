@@ -1,5 +1,6 @@
 ---
 title: 7. MARKERING (SCORING)
+lastUpdated: true
 ---
 
 #### [(Book 3 art. 14)](https://www.worldarchery.sport/rulebook)

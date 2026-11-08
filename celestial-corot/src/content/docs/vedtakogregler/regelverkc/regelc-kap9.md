@@ -1,5 +1,6 @@
 ---
 title: 9. KONSEKVENSER VED REGELBRUDD
+lastUpdated: true
 ---
 
 #### [(Book 3 – art. 15)](https://www.worldarchery.sport/rulebook)

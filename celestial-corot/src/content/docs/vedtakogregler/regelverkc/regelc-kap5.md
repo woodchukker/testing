@@ -1,5 +1,6 @@
 ---
 title: 5. SKYTING OG ADFERD
+lastUpdated: true
 ---
 
 #### [(Book 3 - art. 12)](https://www.worldarchery.sport/rulebook)

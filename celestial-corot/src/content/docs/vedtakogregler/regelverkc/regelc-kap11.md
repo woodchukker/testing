@@ -1,5 +1,6 @@
 ---
 title: 11. TVIL OG UENIGHET
+lastUpdated: true
 ---
 
 #### [(Book 3 – art.17)](https://www.worldarchery.sport/rulebook)

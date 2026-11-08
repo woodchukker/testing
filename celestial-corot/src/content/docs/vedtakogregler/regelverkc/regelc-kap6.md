@@ -1,5 +1,6 @@
 ---
 title: 6. SKYTERYTME OG TIDSKONTROLL
+lastUpdated: true
 ---
 
 #### [(Book 3 – art.13)](https://www.worldarchery.sport/rulebook)

@@ -1,5 +1,6 @@
 ---
 title: 10. TRENING
+lastUpdated: true
 ---
 
 #### [(Book 3 – art. 16)](https://www.worldarchery.sport/rulebook)
