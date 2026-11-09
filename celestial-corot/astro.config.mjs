@@ -70,13 +70,11 @@ export default defineConfig({
 										],
 								},
 								{
-									label: 'Avstander',
+									label: 'Avstandstabeller',
 									collapsed: true,
 									items: [
-										{label: 'Skive innendørs', slug: 'vedtakogregler/avstander/avstand-inne' },
-										{label: 'Skive innendørs (Tabbed)', slug: 'vedtakogregler/avstander/avstand-inne-tab',
-											badge: {text: 'Experiment', variant: 'danger'}
-											},
+										{label: 'Skive innendørs', slug: 'vedtakogregler/avstander/avstand-inne-tab'},
+										{label: 'Mesterskap Skog', slug: 'vedtakogregler/avstander/avstander-skog' },
 										],
 								},
 							],
