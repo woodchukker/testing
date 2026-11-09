@@ -75,6 +75,8 @@ export default defineConfig({
 									items: [
 										{label: 'Skive innendørs', slug: 'vedtakogregler/avstander/avstand-inne-tab'},
 										{label: 'Mesterskap Skog', slug: 'vedtakogregler/avstander/avstander-skog' },
+										{label: 'Mesterskap Skive', slug: 'vedtakogregler/avstander/avstand-mestskap' },
+
 										],
 								},
 							],
