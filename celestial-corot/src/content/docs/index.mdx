@@ -9,6 +9,12 @@ hero:
   image:
     file: ../../assets/magnify.png
   actions:
+    - text: Norges Bueskytterforbund
+      link: https://www.bueskyting.no/
+      icon: external
+      attrs:
+        target: _blank
+        rel: noopener noreferer
     - text: World Archery Rulebook
       link: https://www.worldarchery.sport/rulebook
       icon: external
@@ -18,7 +24,7 @@ hero:
       variant: secondary
 ---
 
-import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
+import { Card, LinkCard, CardGrid, Aside } from '@astrojs/starlight/components';
 
 <CardGrid>
 	<LinkCard
@@ -38,3 +44,11 @@ import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
     href="/testing/diverse/diverseindex/"
 	/>
 </CardGrid>
+
+---
+
+<Aside type="caution" title="Disclaimer">
+  Informasjon på disse sider er ikke offisielt, alltid verifisere på Norges Bueskytterforbund webside.
+</Aside>
+
+---
