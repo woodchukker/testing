@@ -1,5 +1,6 @@
 ---
 title: 17. SKIVEOPPSETT (TEGNINGER)
+lastUpdated: true
 next: false
 ---
 

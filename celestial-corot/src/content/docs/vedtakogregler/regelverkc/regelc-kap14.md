@@ -1,5 +1,6 @@
 ---
 title: 14. ANTREKKSBESTEMMELSER
+lastUpdated: true
 ---
 
 #### [(Book 3 – art. 20)](https://www.worldarchery.sport/rulebook)

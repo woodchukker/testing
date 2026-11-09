@@ -1,5 +1,8 @@
 ---
 title: Andre regelverk og retningslinjer
+#template: splash
+pagefind: false
+#lastUpdated: true
 editUrl: false
 prev: false
 ---

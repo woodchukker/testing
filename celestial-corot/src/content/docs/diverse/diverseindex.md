@@ -1,5 +1,8 @@
 ---
 title: Diverse dokumenter
+#template: splash
+pagefind: false
+#lastUpdated: true
 editUrl: false
 prev: false
 ---

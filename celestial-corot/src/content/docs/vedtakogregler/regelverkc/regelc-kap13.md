@@ -1,5 +1,6 @@
 ---
 title: 13. APPELL
+lastUpdated: true
 ---
 
 # [(Book 3 – art. 19)](https://www.worldarchery.sport/rulebook)
