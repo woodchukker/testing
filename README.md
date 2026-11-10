@@ -8,6 +8,8 @@ This is frustrating when attending competitions as a judge, not having the Rules
 ## Solution
 First converting the pdfs to word and then to markdown, reformatting them manually as they are also in a reasonably bad format. \
 Using Astro Starlight framework to provide readable, searchable and indexed set of Laws and Rules across all devices.
+Published on GitHub Pages:
+https://woodchukker.github.io/testing/
 
 ### Disclaimer
 The Laws and Rules here are not maintained by NBF.
