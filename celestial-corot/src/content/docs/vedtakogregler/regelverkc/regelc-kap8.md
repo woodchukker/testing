@@ -1,5 +1,8 @@
 ---
 title: 8. SKYTEKONTROLL OG SIKKERHET
+sidebar:
+    label: Skyterkontroll og sikkerhet
+    order: 9
 lastUpdated: true
 ---
 

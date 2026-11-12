@@ -1,5 +1,9 @@
 ---
 title: 2. BANEUTLEGG
+sidebar:
+    label: Baneutlegg
+    order: 3
+
 lastUpdated: true
 ---
 

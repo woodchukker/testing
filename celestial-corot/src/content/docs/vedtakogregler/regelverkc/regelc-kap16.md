@@ -1,5 +1,8 @@
 ---
 title: 16. PROTESTER
+sidebar:
+    label: Protester
+    order: 17
 lastUpdated: true
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: 3. BANEUTSTYR
+sidebar:
+    label: Baneutstyr
+    order: 4
 lastUpdated: true
 ---
 

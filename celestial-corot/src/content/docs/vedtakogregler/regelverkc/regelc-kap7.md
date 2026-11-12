@@ -1,5 +1,8 @@
 ---
 title: 7. MARKERING (SCORING)
+sidebar:
+    label: Markering (Scoring)
+    order: 8
 lastUpdated: true
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: 12. LAGLEDELSE
+sidebar:
+    label: Lagledelse
+    order: 13
 lastUpdated: true
 ---
 

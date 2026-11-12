@@ -1,5 +1,8 @@
 ---
 title: 11. TVIL OG UENIGHET
+sidebar:
+    label: Tvil og uenighet
+    order: 12
 lastUpdated: true
 ---
 

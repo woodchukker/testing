@@ -1,5 +1,8 @@
 ---
 title: 14. ANTREKKSBESTEMMELSER
+sidebar:
+    label: Antrekksbestemmelser
+    order: 15
 lastUpdated: true
 ---
 

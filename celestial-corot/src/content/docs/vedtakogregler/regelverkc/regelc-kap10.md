@@ -1,5 +1,8 @@
 ---
 title: 10. TRENING
+sidebar:
+    label: Trening
+    order: 11
 lastUpdated: true
 ---
 
