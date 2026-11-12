@@ -8,13 +8,14 @@ pagefind: false
 #lastUpdated: true
 editUrl: false
 prev: false
+tableOfContents: false
 ---
 
 #### 2024-2026
 
 Endringer i regelverket listes i tilhørende vedtekter i perioden mellom to Ting. Oppdaterte vedtekter ligger tilgjengelig på NBFs hjemmesider
 
-<span style="color: red;">Endringer besluttet innført på siste Ting er skrevet i rødt i dette dokumentet</span>
+<span style="color: red">Endringer besluttet innført på siste Ting er skrevet i rødt i dette dokumentet</span>
 
 ### Innholdsfortegnelse
 
