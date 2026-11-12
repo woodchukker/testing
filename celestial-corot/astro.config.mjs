@@ -10,6 +10,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
+			favicon: '/targeticon.svg',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			editLink: {
 				baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
