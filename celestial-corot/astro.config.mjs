@@ -10,6 +10,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
+			logo: {
+				src: '/public/targeticon.svg',
+			},
 			favicon: '/targeticon.svg',
 			credits: true,
 			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
