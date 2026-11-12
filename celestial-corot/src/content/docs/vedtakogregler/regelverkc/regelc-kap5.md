@@ -1,5 +1,8 @@
 ---
 title: 5. SKYTING OG ADFERD
+sidebar:
+    label: Skyting og adferd
+    order: 6
 lastUpdated: true
 ---
 

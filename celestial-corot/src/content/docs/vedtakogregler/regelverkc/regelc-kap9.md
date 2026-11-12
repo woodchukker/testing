@@ -1,5 +1,8 @@
 ---
 title: 9. KONSEKVENSER VED REGELBRUDD
+sidebar:
+    label: Konsekvenser ved regelbrudd
+    order: 10
 lastUpdated: true
 ---
 

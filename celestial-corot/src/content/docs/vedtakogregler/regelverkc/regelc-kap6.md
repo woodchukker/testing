@@ -1,5 +1,8 @@
 ---
 title: 6. SKYTERYTME OG TIDSKONTROLL
+sidebar:
+    label: Skyterytme og tidskontroll
+    order: 7
 lastUpdated: true
 ---
 

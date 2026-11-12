@@ -1,5 +1,8 @@
 ---
 title: 1. SKYTERUNDER
+sidebar:
+    label: Skyterunder
+    order: 2
 lastUpdated: true
 ---
 #### [(Book 2 – kap. 4.7.)](https://www.worldarchery.sport/rulebook)

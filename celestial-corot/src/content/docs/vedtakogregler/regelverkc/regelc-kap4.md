@@ -1,5 +1,11 @@
 ---
 title: 4. SKYTTERUTSTYR
+sidebar:
+    label: Skytterutstyr
+    order: 5
+    badge:
+        text: oppdatert
+        variant: caution
 lastUpdated: true
 ---
 

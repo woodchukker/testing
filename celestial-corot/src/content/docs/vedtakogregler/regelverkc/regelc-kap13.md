@@ -1,5 +1,8 @@
 ---
 title: 13. APPELL
+sidebar:
+    label: Appell
+    order: 14
 lastUpdated: true
 ---
 

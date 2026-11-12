@@ -1,5 +1,8 @@
 ---
 title: 17. SKIVEOPPSETT (TEGNINGER)
+sidebar:
+    label: Skiveoppsett (tegninger)
+    order: 18
 lastUpdated: true
 next: false
 ---
