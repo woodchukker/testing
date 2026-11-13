@@ -4,6 +4,7 @@ sidebar:
     label: Trening
     order: 13
 lastUpdated: true
+tableOfContents: false
 ---
 
 Ved World Archery sine felt- og 3D-mesterskap tillates ingen trening i konkurransebanene.

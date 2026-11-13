@@ -4,6 +4,7 @@ sidebar:
     label: Konsekvenser ved brudd på regelverket
     order: 12
 lastUpdated: true
+tableOfContents: false
 ---
 
 Nedenfor følger en oppsummering av straff og sanksjoner mot skyttere når regler er brutt.

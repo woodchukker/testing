@@ -4,6 +4,7 @@ sidebar:
     label: Appell
     order: 15
 lastUpdated: true
+tableOfContents: false
 ---
 
 Hvis en deltaker ikke er tilfreds med dommernes avgjørelse, kan han - med unntak av tilfellet under pkt. A ovenfor – appellere til Juryen. \

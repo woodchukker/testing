@@ -4,6 +4,7 @@ sidebar:
     label: Skyting
     order: 6
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) Skytter skal, enten han står eller kneler, stå bak skytepålen som angir standplass, uten å sette sikkerheten i fare.

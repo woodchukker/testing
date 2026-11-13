@@ -4,6 +4,7 @@ sidebar:
     label: Skyterledelse og sikkerhet
     order: 11
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) Hoveddommer kontrollerer skytingen.

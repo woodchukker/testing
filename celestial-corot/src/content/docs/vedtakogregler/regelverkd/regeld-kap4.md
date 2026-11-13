@@ -12,7 +12,8 @@ Nedenfor beskrives de bestemmelser som gjelder for hver divisjon og deretter de 
 
 _Det finnes egne regler for para-stevner. Ref WA art. 21._
 
-a\) For Recurvedivisjonen er følgende utstyr tillatt:
+### a\) Recurve-divisjonen
+#### følgende utstyr er tillatt:
 
 1\) Bue av enhver type kan brukes forutsatt at den tilsvarer det aksepterte prinsipp og betydningen av ordet bue slik den brukes i skiveskyting, det vil si et instrument som består av et håndtak (grep), en forlengelse av dette (midtseksjonen) og to fleksible lemmer som hver ender i en tupp med nokk til bue strengen. Midtseksjonen kan ikke være splittet for "gjennomskyting". \
 For bruk er buen strenget med en enkelt buestreng som bare er spent direkte mellom buens streng-nokker. For bruk holdes buen i håndtaket med én hånd mens den annen hånds fingre trekker og slipper strengen. Det er tillatt å ha flerfarget midtstykke og varemerker på innsiden av buelemmene og på midtstykket. \
@@ -70,7 +71,8 @@ Dersom en skytter trenger å dekke til det øyet man ikke sikter med, eller bril
 Man kan ha en innretning som hever foten/føttene eller en del av den, festet til skoen eller frittstående, såfremt denne ikke medfører noen hindring for andre skyttere på skytelinjen og ikke strekker seg mer enn 2cm utover fotavtrykket. \
 Det er også lov med dempere for buelemmene.
 
-b\) For **Compound Divisjon** er følgende utstyr beskrevet; og alt annet tilleggsutstyr tillatt, med mindre de er elektriske eller elektroniske, er i strid med sikkerheten eller skaper unødig forstyrrelse for medskyttere.
+### b\) Compund-divisjonen
+#### følgende utstyr er beskrevet; og alt annet tilleggsutstyr tillatt, med mindre de er elektriske eller elektroniske, er i strid med sikkerheten eller skaper unødig forstyrrelse for medskyttere.
 
 1\) En compoundbue, som gjerne kan være konstruert slik at man kan skyte gjennom midtseksjonen, der opptrekket varierer mekanisk ved hjelp av et system av trinser og/eller "kammer". \
 Buen strenges for bruk enten ved en enkel buestreng festet direkte mellom de to strengnokkene på buelemmene, til kammene, eller til buekabelen - i henhold til buens design. Trekkraften må ikke overstige 60 pund. \
@@ -94,6 +96,8 @@ På runder med ukjent avstand kan ikke siktet være modifisert med det formål �
 
 8\) Når det gjelder piler, briller og kikkerter etc, og annet tilbehør, gjelder samme regler som for recurve ovenfor.
 
+### c\) Barebow-divisjonen
+#### følgende utstyr er tillatt:
 c\) I **Barebow-divisjonen** er følgende utstyr tillatt:
 
 1\) En bue av enhver type kan brukes forutsatt at den tilsvarer det aksepterte prinsipp og meningen med ordet bue som beskrevet under recurve ovenfor.
@@ -123,7 +127,8 @@ Dog er det ikke tillatt med skriftlig tilleggs-informasjon.
 
 8\) Reglene om kikkerter/teleskop og annet tilleggsutstyr er de samme som for recurve ovenfor.
 
-d\) For **Tradisjonelldivisjonen** er følgende utstyr tillatt:
+### d\) Tradisjonelldivisjonen
+#### følgende utstyr er tillatt:
 
 1\) En bue av enhver type kan brukes forutsatt at den tilsvarer det aksepterte prinsipp og meningen med ordet bue som beskrevet under recurve ovenfor, bestående av et midtstykke (uten mulighet for gjennomskyting/«shoot-through»). Midtstykket er av en laminert konstruksjon og inkluderer tre-laminat, eller ett stykke tre. \
 Buen kan være sammenleggbar og kan inneholde fabrikkinstallerte metallinsatser i midstykket for montering av lemmer, stabilisator, plunger, sikte etc. Buen kan ha justerbare lemmer for dragvekt- og tillerjustering. \
@@ -151,7 +156,8 @@ Ansiktsklatring er tillatt, men strengklatring er ikke tillatt.
 
 10\) Kikkert m.v. og øvrig utstyr – i likhet med barebow ovenfor, dog kan ikke et pilkogger være festet til buen.
 
-d\) For **Langbuedivisjonen** er følgende utstyr tillatt:
+### d\) Langbuedivisjonen
+#### følgende utstyr er tillatt:
 
 1\) Langbuen skal være konstruert i overensstemmelse med den tradisjonelle formen av en langbue, noe som innebærer at strengen ikke skal berøre noen annen del av buen enn strengnockene når den er oppspent. Buen kan være sammenleggbar i to deler av samme lengde og laget av valgfritt materiale eller kombinasjoner av materialer. Formen på grepet er valgfri og senterskytende bue er tillatt. \
 I sikteområdet skal ikke buen ha fremspring, merker, sikte eller siktemerker, skrammer, lamineringsdeler e.l. som kan benyttes til sikting.
@@ -177,7 +183,8 @@ I sikteområdet skal ikke buen ha fremspring, merker, sikte eller siktemerker, s
 
 10\) Kikkert m.v. og øvrig utstyr – i likhet med barebow ovenfor.
 
-E) For **Buejegerdivisjonen** er følgende utstyr tillatt:
+### E\) Buejegerdivisjonen
+#### følgende utstyr er tillatt:
 
 Buen kan være av enhver type beskrevet ovenfor. Trekkraften må ikke overskride 80 pund.
 
@@ -187,6 +194,7 @@ Man kan benytte flere siktepinner og lys for opplysing av siktepinner. \
 Pilene skal ha en diameter på minimum 7mm. \
 Man kan bare ha et stabilisatorsystem som totalt måler maksimum 35cm.
 
+### Ikke tillat utstyr
 **Følgende utstyr er ikke tillatt (gjelder alle divisjoner – jfr. likevel hva som sies under Buejegerklassen ovenfor.**
 
 - Enhver elektrisk eller elektronisk innretning som kan festes til skytterutstyret.

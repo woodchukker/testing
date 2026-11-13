@@ -4,6 +4,7 @@ sidebar:
     label: Markering (Scoring)
     order: 10
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) Markering skal finne sted etter at alle skytterne i gruppa har skutt sine piler.

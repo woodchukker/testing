@@ -4,6 +4,7 @@ sidebar:
     label: Sykterytme og tidskontrol
     order: 7
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) Dersom det er større deltakerantall enn banen har kapasitet, kan det dannes flere grupper (patruljer) i banen der det måtte passe.

@@ -4,6 +4,7 @@ sidebar:
     label: Tvil og uenighet
     order: 14
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) En skytter skal henvise enhver tvil om verdien av en pil i skiven/målet, før pilene trekkes, til:
