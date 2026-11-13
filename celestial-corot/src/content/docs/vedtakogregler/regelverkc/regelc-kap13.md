@@ -4,6 +4,7 @@ sidebar:
     label: Appell
     order: 14
 lastUpdated: true
+tableOfContents: false
 ---
 
 # [(Book 3 – art. 19)](https://www.worldarchery.sport/rulebook)

@@ -4,6 +4,7 @@ sidebar:
     label: Utlegg av bane
     order: 4
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) Banen skal være lagt opp slik at standplasser og mål kan nås uten unødige vansker, fare eller bortkastet tid. \

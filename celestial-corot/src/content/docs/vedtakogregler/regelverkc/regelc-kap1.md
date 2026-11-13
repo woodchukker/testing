@@ -4,6 +4,7 @@ sidebar:
     label: Skyterunder
     order: 2
 lastUpdated: true
+tableOfContents: false
 ---
 #### [(Book 2 – kap. 4.7.)](https://www.worldarchery.sport/rulebook)
 

@@ -4,6 +4,7 @@ sidebar:
     label: Konsekvenser ved regelbrudd
     order: 10
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 – art. 15)](https://www.worldarchery.sport/rulebook)

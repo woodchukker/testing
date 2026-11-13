@@ -4,6 +4,7 @@ sidebar:
     label: Trening
     order: 11
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 – art. 16)](https://www.worldarchery.sport/rulebook)

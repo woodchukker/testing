@@ -4,6 +4,7 @@ sidebar:
     label: Tvil og uenighet
     order: 12
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 – art.17)](https://www.worldarchery.sport/rulebook)

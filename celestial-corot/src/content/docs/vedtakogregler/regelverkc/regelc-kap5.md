@@ -4,6 +4,7 @@ sidebar:
     label: Skyting og adferd
     order: 6
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 - art. 12)](https://www.worldarchery.sport/rulebook)

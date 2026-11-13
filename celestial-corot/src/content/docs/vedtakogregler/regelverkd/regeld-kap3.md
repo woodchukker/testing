@@ -4,6 +4,7 @@ sidebar:
     label: Baneutstyr
     order: 4
 lastUpdated: true
+tableOfContents: false
 ---
 
 A\) Både i feltbaner med oppgitte avstander og ukjente avstander benyttes godkjent feltskive. I feltstevner kan bare World Archery's lisensierte skiver benyttes.
@@ -14,15 +15,16 @@ Alle skillelinjer skal ligge innenfor den høyere poengsonen. I skivens sentrum 
 
 B\) Det finnes fire størrelser av feltskivene:
 
-|           |                | **Størrelser i diameter** |          |          |          | **Toleranser** |
-| --------- | -------------- | ------------------------- | -------- | -------- | -------- | -------------- |
-| **Farge** | **Poengsoner** | **20cm**                  | **40cm** | **60cm** | **80cm** | **±**          |
-| **Gul**   | 6 (innerring)  | 2cm                       | 4cm      | 6cm      | 8cm      | 1mm            |
-| **Gul**   | 5              | 4cm                       | 8cm      | 12cm     | 16cm     | 1mm            |
-| **Sort**  | 4              | 8cm                       | 16cm     | 24cm     | 32cm     | 1mm            |
-| **Sort**  | 3              | 12cm                      | 24cm     | 36cm     | 48cm     | 2mm            |
-| **Sort**  | 2              | 16cm                      | 32cm     | 48cm     | 64cm     | 2mm            |
-| **Sort**  | 1              | 20cm                      | 40cm     | 60cm     | 80cm     | 2mm            |
+**Størrelser i diameter**
+
+| Farge | Poengsoner | 20cm | 40cm | 60cm | 80cm | Toleranser +- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Gul | 6 (innerring) | 2cm | 4cm | 6cm | 8cm | 1mm |
+| Gul | 5 | 4cm | 8cm | 12cm | 16cm | 1mm |
+| Sort | 4 | 8cm | 16cm | 24cm | 32cm | 1mm |
+| Sort | 3 | 12cm | 24cm | 36cm | 48cm | 2mm |
+| Sort | 2 | 16cm | 32cm | 48cm | 64cm | 2mm |
+| Sort | 1 | 20cm | 40cm | 60cm | 80cm | 2mm |
 
 C\) I Jaktrunden benyttes skiver som følger:
 

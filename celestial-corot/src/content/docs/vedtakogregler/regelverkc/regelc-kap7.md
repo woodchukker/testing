@@ -4,6 +4,7 @@ sidebar:
     label: Markering (Scoring)
     order: 8
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 art. 14)](https://www.worldarchery.sport/rulebook)

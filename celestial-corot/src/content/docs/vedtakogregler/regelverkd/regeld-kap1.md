@@ -4,6 +4,7 @@ sidebar:
     label: Runder
     order: 2
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 2 – Art. 4.5.3)](https://www.worldarchery.sport/rulebook)

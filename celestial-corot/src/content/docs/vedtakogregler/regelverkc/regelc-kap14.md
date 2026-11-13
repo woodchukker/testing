@@ -4,6 +4,7 @@ sidebar:
     label: Antrekksbestemmelser
     order: 15
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 – art. 20)](https://www.worldarchery.sport/rulebook)

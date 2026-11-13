@@ -4,6 +4,7 @@ sidebar:
     label: Skyterytme og tidskontroll
     order: 7
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 – art.13)](https://www.worldarchery.sport/rulebook)

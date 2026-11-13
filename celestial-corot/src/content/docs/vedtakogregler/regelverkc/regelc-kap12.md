@@ -4,6 +4,7 @@ sidebar:
     label: Lagledelse
     order: 13
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 3 – art. 18)](https://www.worldarchery.sport/rulebook)

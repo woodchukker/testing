@@ -4,6 +4,7 @@ sidebar:
     label: Protester
     order: 17
 lastUpdated: true
+tableOfContents: false
 ---
 
 ##### (Dette er nasjonale bestemmelser om prosedyrer ved mulige protester ved stevner i Norge). <br> <br> Protest fra en skytter mot en medskytters utstyr, måten denne skyter på, dennes oppførsel eller protest vedrørende banen, skal være skriftlig og leveres hoveddommer snarest mulig - dog før premieutdelingen.

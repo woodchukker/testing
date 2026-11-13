@@ -3,8 +3,8 @@ title: 2. BANEUTLEGG
 sidebar:
     label: Baneutlegg
     order: 3
-
 lastUpdated: true
+tableOfContents: false
 ---
 
 #### [(Book 2, art. 7.1)](https://www.worldarchery.sport/rulebook)
