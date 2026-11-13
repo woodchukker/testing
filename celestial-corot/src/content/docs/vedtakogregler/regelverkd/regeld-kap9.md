@@ -1,11 +1,13 @@
 ---
-title: ART. 9 MARKERING (SCORING) (Book 4 Art 25)
+title: ART. 9 MARKERING (SCORING)
 sidebar:
     label: Markering (Scoring)
     order: 10
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 25)](https://www.worldarchery.sport/rulebook)
 
 A\) Markering skal finne sted etter at alle skytterne i gruppa har skutt sine piler.
 

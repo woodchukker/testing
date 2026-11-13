@@ -1,10 +1,12 @@
 ---
-title: ART. 4 SKYTTERUTSTYR (Book 4 Art. 22)
+title: ART. 4 SKYTTERUTSTYR
 sidebar:
     label: Syktterutstyr
     order: 5
 lastUpdated: true
 ---
+
+#### [(Book 4 – art. 22)](https://www.worldarchery.sport/rulebook)
 
 Denne artikkelen fastlegger det utstyr en skytter er tillatt å bruke når han skyter for WA-formål. Det er en skytters ansvar å benytte utstyr som er i overensstemmelse med reglene. \
 En deltaker som bruker utstyr som strider mot bestemmelsene, kan bli diskvalifisert. \

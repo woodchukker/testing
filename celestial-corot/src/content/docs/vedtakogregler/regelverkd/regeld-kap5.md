@@ -1,11 +1,13 @@
 ---
-title: ART. 5 SKYTING (Book 4 Art 23)
+title: ART. 5 SKYTING
 sidebar:
     label: Skyting
     order: 6
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 23)](https://www.worldarchery.sport/rulebook)
 
 A\) Skytter skal, enten han står eller kneler, stå bak skytepålen som angir standplass, uten å sette sikkerheten i fare.
 

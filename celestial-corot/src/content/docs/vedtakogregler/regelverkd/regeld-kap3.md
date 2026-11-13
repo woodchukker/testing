@@ -1,11 +1,13 @@
 ---
-title: ART. 3 BANEUTSTYR (Book 2 – Art.8.2)
+title: ART. 3 BANEUTSTYR
 sidebar:
     label: Baneutstyr
     order: 4
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 2 – art. 8.2)](https://www.worldarchery.sport/rulebook)
 
 A\) Både i feltbaner med oppgitte avstander og ukjente avstander benyttes godkjent feltskive. I feltstevner kan bare World Archery's lisensierte skiver benyttes.
 

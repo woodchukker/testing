@@ -1,11 +1,13 @@
 ---
-title: ART. 6 SKYTERYTME OG TIDSKONTROLL FOR FELT OG 3D-SKYTING (Book 4 Art 24)
+title: ART. 6 SKYTERYTME OG TIDSKONTROLL FOR FELT OG 3D-SKYTING
 sidebar:
     label: Sykterytme og tidskontrol
     order: 7
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 24)](https://www.worldarchery.sport/rulebook)
 
 A\) Dersom det er større deltakerantall enn banen har kapasitet, kan det dannes flere grupper (patruljer) i banen der det måtte passe.
 

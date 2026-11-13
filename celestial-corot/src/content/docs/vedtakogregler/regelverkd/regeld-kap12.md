@@ -1,11 +1,13 @@
 ---
-title: ART. 12 TRENING (BOOK 4 Art 30)
+title: ART. 12 TRENING
 sidebar:
     label: Trening
     order: 13
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 30)](https://www.worldarchery.sport/rulebook)
 
 Ved World Archery sine felt- og 3D-mesterskap tillates ingen trening i konkurransebanene.
 

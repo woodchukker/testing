@@ -1,11 +1,13 @@
 ---
-title: ART. 10 SKYTELEDELSE OG SIKKERHET (Book 4 Art 26)
+title: ART. 10 SKYTELEDELSE OG SIKKERHET
 sidebar:
     label: Skyterledelse og sikkerhet
     order: 11
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 26)](https://www.worldarchery.sport/rulebook)
 
 A\) Hoveddommer kontrollerer skytingen.
 

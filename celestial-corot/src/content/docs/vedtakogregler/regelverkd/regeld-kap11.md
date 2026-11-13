@@ -1,11 +1,13 @@
 ---
-title: ART. 11. KONSEKVENSER VED BRUDD PÅ REGELVERKET (Book 4 Art 27)
+title: ART. 11. KONSEKVENSER VED BRUDD PÅ REGELVERKET
 sidebar:
     label: Konsekvenser ved brudd på regelverket
     order: 12
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 27)](https://www.worldarchery.sport/rulebook)
 
 Nedenfor følger en oppsummering av straff og sanksjoner mot skyttere når regler er brutt.
 

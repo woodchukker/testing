@@ -1,11 +1,13 @@
 ---
-title: ART. 13 TVIL OG UENIGHET (Book 4 Art 31)
+title: ART. 13 TVIL OG UENIGHET
 sidebar:
     label: Tvil og uenighet
     order: 14
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 4 – art. 31)](https://www.worldarchery.sport/rulebook)
 
 A\) En skytter skal henvise enhver tvil om verdien av en pil i skiven/målet, før pilene trekkes, til:
 - I kvalifiseringsrunden til skytterne i gruppen. \

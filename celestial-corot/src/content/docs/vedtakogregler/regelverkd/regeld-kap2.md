@@ -1,11 +1,13 @@
 ---
-title: ART. 2 UTLEGG AV BANE (Book 2 – art. 8)
+title: ART. 2 UTLEGG AV BANE
 sidebar:
     label: Utlegg av bane
     order: 4
 lastUpdated: true
 tableOfContents: false
 ---
+
+#### [(Book 2 – art. 8)](https://www.worldarchery.sport/rulebook)
 
 A\) Banen skal være lagt opp slik at standplasser og mål kan nås uten unødige vansker, fare eller bortkastet tid. \
 3D-banene skal være så "fortettet" som mulig. Gangavstanden fra samlingspunktet til det mål som ligger lengst unna, skal ikke være mer enn 1 km eller 15 minutters normal gange (når man leder ut startgruppene eller bringer reserveutstyr). \
