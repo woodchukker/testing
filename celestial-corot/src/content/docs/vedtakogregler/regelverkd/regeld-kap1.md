@@ -1,10 +1,12 @@
 ---
-title: ART. 1 RUNDER (Book 2 – Art. 4.5.3)
+title: ART. 1 RUNDER
 sidebar:
     label: Runder
     order: 2
 lastUpdated: true
 ---
+
+#### [(Book 2 – Art. 4.5.3)](https://www.worldarchery.sport/rulebook)
 
 A\) Jakt- og felt-runder kan skytes av Barebow-, Recurve-, Compound- Tradisjonell- og Langbuedivisjonene i Norge. \
 I tillegg har vi en Buejegerdivisjon i 3D-skyting.
@@ -43,26 +45,28 @@ Hvis en bane består av 24 mål, skal antallet som er nevnt nedenfor for 12 mål
 
 H\) **Feltbane** med ukjente avstander:
 
-| **Antall**                                  | **Skivens**  | **Distanser minimum – maks i meter** |              |              |              |
-| ------------------------------------------- | ------------ | ------------------------------------ | ------------ | ------------ | ------------ |
-| **mål**                                     | **Diameter** | **Hvit påle**                        | **Gul påle** | **Blå påle** | **Rød påle** |
-| **2-4**                                     | 20 cm        | 5-10                                 | 5 – 10       | 5 – 10       | 10 – 15      |
-| **2-4**                                     | 40 cm        | 10-15                                | 10 – 15      | 10 – 20      | 15 – 25      |
-| **2-4**                                     | 60 cm        | 10-20                                | 15 – 25      | 15 – 30      | 20 – 35      |
-| **2-4**                                     | 80 cm        | 15-20                                | 20 – 30\*    | 30 - 45      | 35 - 55      |
-| **\* Norsk regel; maks 30 m for gul påle.** |              |                                      |              |              |              |
+| Antall Mål | Skivens Diameter | Hvit påle | Gul påle | Blå påle | Rød påle |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 2-4 | 20 cm | 5-10 m | 5 – 10 m | 5 – 10 m | 10 – 15 m |
+| 2-4 | 40 cm | 10-15 m | 10 – 15 m | 10 – 20 m | 15 – 25 m |
+| 2-4 | 60 cm | 10-20 m | 15 – 25 m | 15 – 30 m | 20 – 35 m |
+| 2-4 | 80 cm | 15-20 m | 20 – 30 m \*| 30 - 45 m | 35 - 55 m |
+
+\* Norsk regel; maks 30 m for gul påle.
+
 Avstandene på målene av samme skivestørrelse skal variere mellom lang-, middels og kort avstand – og det anbefales å bruke forskjellige størrelser på mattene.
 
 I\) **Feltbane** med oppgitte avstander:
 
-| **Antall**                                                       | **Skivens**  | **Distanser i meter** |                |              |            | 
-| ---------------------------------------------------------------- | ------------ | --------------------- | -------------- | ------------ | ----------- |
-| **mål**                                                          | **diameter** | **Hvit påle\***       | **Gul påle\*** | **Blå påle** | **Rød påle**|
-| **3**                                                            | 20 cm        | 5-20                  | 5-10-15        | 5-10-15      | 10-15-20    |
-| **3**                                                            | 40 cm        | 5-20                  | 10-15-20       | 15-20-25     | 20-25-30    |
-| **3**                                                            | 60 cm        | 5-20                  | 15-20-25       | 30-35-40     | 35-40-45    |
-| **3**                                                            | 80 cm        | 5-20                  | 20-25-30       | 40-45-50     | 50-55-60    |
-| **\* Norsk regel; maks 20m for hvit påle, og 30m for gul påle.** |              |                       |                |              |           |
+| Antall mål | Skivens diameter| Hvit påle \* | Gul påle \* | Blå påle | Rød påle | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 3 | 20 cm | 5-20 m | 5-10-15 m | 5-10-15 m | 10-15-20 m |
+| 3 | 40 cm | 5-20 m | 10-15-20 m | 15-20-25 m | 20-25-30 m |
+| 3 | 60 cm | 5-20 m | 15-20-25 m | 30-35-40 m | 35-40-45 m |
+| 3 | 80 cm | 5-20 m | 20-25-30 m | 40-45-50 m | 50-55-60 m |
+
+\* Norsk regel; maks 20m for hvit påle, og 30m for gul påle.
+
 Distansene kan justeres med ± 2m hvis nødvendig, men korrekt distanse skal merkes på pålen og ha følgende toleranser; distanser mellom 5-15m = ± 25cm, distanser mellom 15-60m = ± 100cm (1m). \
 Der det er mulig, bør det settes ut to 60cm skiver, der senterne settes slik at begge skyttere har like muligheter til treff.
 
@@ -72,37 +76,35 @@ J\) Feltbane for eliminasjonsrunden (oppgitte avstander)
 
 (merk: på mål med 20cm skiver er det 3 spoter pr skive, til sammen 12 spoter pr mål)
 
-| **Antall** | **Skivens**  | **Antall** | **Distanser i meter** |              |              |              |
-| ---------- | ------------ | ---------- | --------------------- | ------------ | ------------ | ------------ |
-| **mål**    | **diameter** | **skiver** | **Hvit påle**         | **Gul påle** | **Blå påle** | **Rød påle** |
-| **1**      | 20 cm        | 4          | 5                     | 15           | 15           | 20           |
-| **1**      | 40 cm        | 4          | 10                    | 20           | 25           | 30           |
-| **1**      | 60 cm        | 2          | 15                    | 20           | 35           | 40           |
-| **1**      | 80 cm        | 1          | 20                    | 20           | 40           | 50           |
-| **1**      | 20 cm        | 4          | 5                     | 5            | 5            | 10           |
-| **1**      | 40 cm        | 4          | 10                    | 10           | 15           | 20           |
-| **1**      | 60 cm        | 2          | 15                    | 15           | 30           | 35           |
-| **1**      | 80 cm        | 1          | 20                    | 25           | 45           | 55           |
-| **1**      | 20 cm        | 4          | 5                     | 10           | 10           | 15           |
-| **1**      | 40 cm        | 4          | 10                    | 15           | 20           | 25           |
-| **1**      | 60 cm        | 2          | 15                    | 25           | 40           | 45           |
-| **1**      | 80 cm        | 1          | 20                    | 30           | 50           | 60           |
+| Antall mål | Skivens diamter | Antall skiver | Hvit påle | Gul påle | Blå påle | Rød påle |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 20 cm | 4 | 5 m | 15 m | 15 m | 20 m|
+| 1 | 40 cm | 4 | 10 m | 20 m | 25 m | 30 m |
+| 1 | 60 cm | 2 | 15 m | 20 m | 35 m | 40 m |
+| 1 | 80 cm | 1 | 20 m | 20 m | 40 m | 50 m |
+| 1 | 20 cm | 4 | 5 m | 5 m | 5 m | 10 m |
+| 1 | 40 cm | 4 | 10 m | 10 m | 15 m | 20 m |
+| 1 | 60 cm | 2 | 15 m | 15 m | 30 m | 35 m |
+| 1 | 80 cm | 1 | 20 m | 25 m | 45 m | 55 m |
+| 1 | 20 cm | 4 | 5 m | 10 m | 10 m | 15 m |
+| 1 | 40 cm | 4 | 10 m | 15 m | 20 m | 25 m |
+| 1 | 60 cm | 2 | 15 m | 25 m | 40 m | 45 m |
+| 1 | 80 cm | 1 | 20 m | 30 m | 50 m | 60 m |
 
 Samme justeringsmuligheter og toleranser som nevnt ovenfor.
 
 K\) Feltbane for finalerunde består av 8 mål med oppgitt avstand:
 
-| **Antall** | **Skivens**  | **Antall** | **Distanser i meter** |              |              |              |
+| Antall mål | Skivens diameter | Antall skiver | Hvit påle | Gul påle | Blå påle | Rød påle |
 | ---------- | ------------ | ---------- | --------------------- | ------------ | ------------ | ------------ |
-| **mål**    | **diameter** | **skiver** | **Hvit påle**         | **Gul påle** | **Blå påle** | **Rød påle** |
-| **1**      | 20 cm        | 4          | 5                     | 15           | 15           | 20           |
-| **1**      | 40 cm        | 4          | 10                    | 20           | 25           | 30           |
-| **1**      | 60 cm        | 2          | 15                    | 20           | 35           | 40           |
-| **1**      | 80 cm        | 2          | 20                    | 25           | 45           | 55           |
-| **1**      | 20 cm        | 4          | 5                     | 10           | 10           | 15           |
-| **1**      | 40 cm        | 4          | 10                    | 15           | 20           | 25           |
-| **1**      | 60 cm        | 2          | 15                    | 25           | 40           | 45           |
-| **1**      | 80 cm        | 2          | 20                    | 30           | 50           | 60           |
+| 1 | 20 cm  | 4 | 5 m | 15 m | 15 m | 20 m |
+| 1 | 40 cm  | 4 | 10 m | 20 m | 25 m | 30 m |
+| 1 | 60 cm  | 2 | 15 m | 20 m | 35 m | 40 m |
+| 1 | 80 cm  | 2 | 20 m | 25 m | 45 m | 55 m |
+| 1 | 20 cm  | 4 | 5 m | 10 m | 10 m | 15 m |
+| 1 | 40 cm  | 4 | 10 m | 15 m | 20 m | 25 m |
+| 1 | 60 cm  | 2 | 15 m | 25 m | 40 m | 45 m |
+| 1 | 80 cm  | 2 | 20 m | 30 m | 50 m | 60 m |
 
 Banen kan settes opp i hvilken som helst rekkefølge, forutsatt at de fire første skivene brukes i semifinalene og de fire siste skivene brukes i finalene, hvor 80 cm skal være det siste målet.
 
@@ -110,12 +112,12 @@ Bane med jaktfigurer (norske regler):
 
 Vi går ut fra en bane med 12 mål
 
-| **Antall**<br><br>**Mål** | **Hjerte-**<br><br>**ring** | **Rød**<br><br>**Påle** | **Blå**<br><br>**Påle** | **Gul**<br><br>**påle** | **Hvit påle** |
-| ------------------------- | --------------------------- | ----------------------- | ----------------------- | ----------------------- | ------------- |
-| 3                         | 7,5 cm                      | 5-15                    | 5-10                    | 5-10                    | 5-10          |
-| 3                         | 15 cm                       | 5-30                    | 5-20                    | 5-15                    | 5-15          |
-| 3                         | 22,5 cm                     | 5-45                    | 5-30                    | 5-20                    | 5-15          |
-| 3                         | 30 cm                       | 5-60                    | 5-45                    | 5-25                    | 5-15          |
+| Antall Mål | Hjerte-ring | Rød Påle | Blå Påle | Gul påle | Hvit påle |
+| :---:| :---: | :---: | :---: | :---: | :---: |
+| 3 | 7,5 cm | 5-15 m | 5-10 m | 5-10 m | 5-10 m |
+| 3 | 15 cm | 5-30 m | 5-20 m | 5-15 m | 5-15 m |
+| 3 | 22,5 cm | 5-45 m | 5-30 m | 5-20 m | 5-15 m |
+| 3 | 30 cm | 5-60 m | 5-45 m | 5-25 m | 5-15 m |
 
 Der det er mulig kan standplassene kombineres. Avstanden til målene med skiver av samme størrelse skal variere mellom lang, middels og kort avstand.
 
@@ -125,10 +127,10 @@ Målene varierer i avstand og størrelse på figurene. Disse er tredimensjonale 
 
 M\) I jaktrunden (norske regler) teller bare den beste pilen i henhold til treff som følger:
 
-|                   | 1\. pil | 2\. pil | 3\. pil |
-| ----------------- | ------- | ------- | ------- |
-| Hjertering/X-ring | 15 p.   | 10 p.   | 5 p.    |
-| Ytterring         | 12 p.   | 7 p.    | 2 p.    |
+| | 1. pil | 2. pil | 3. pil |
+| :--- | :---: | :---: | :---: |
+| Hjertering/X-ring | 15 p. | 10 p. | 5 p. |
+| Ytterring | 12 p. | 7 p. | 2 p. |
 
 I 3D har vi følgende scoresoner:
 Et mål er delt inn i 4 scoresoner (11, 10, 8 og 5). \
