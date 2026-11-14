@@ -27,7 +27,7 @@ export default defineConfig({
 							label: 'NBFs Lov',
 							collapsed: true,
 							items: [
-								{label: 'Innholdsfortegnelse', slug: 'nbfregler/nbfindex' },
+								{label: 'NBFs Lov', slug: 'nbfregler/nbfindex' },
 							],
 						},
 						{
