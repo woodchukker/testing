@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightScrollToTop from 'starlight-scroll-to-top';
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,6 +17,11 @@ export default defineConfig({
 			},
 			favicon: '/targeticon.svg',
 			credits: true,
+			plugins: [starlightScrollToTop({
+				//position: 'left',
+				//tooltipText: 'Scroll to Top'
+				showProgressRing: 'true'
+			})],
 			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			//editLink: {
 			//	baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
