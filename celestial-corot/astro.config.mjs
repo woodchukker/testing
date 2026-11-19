@@ -20,7 +20,9 @@ export default defineConfig({
 			plugins: [starlightScrollToTop({
 				//position: 'left',
 				//tooltipText: 'Scroll to Top'
-				showProgressRing: 'true'
+				showProgressRing: 'true',
+				showTooltip: 'true',
+				svgPath: 'M12 5V19M7 10L12 5L17 10'
 			})],
 			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			//editLink: {
