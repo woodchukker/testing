@@ -5,9 +5,9 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	output: 'static', // Ensures compilation into plain HTML/CSS/JS
-	site: 'https://netlify.app',
-	//site: 'https://woodchukker.github.io',
-	//base: '/testing',
+	//site: 'https://netlify.app',
+	site: 'https://woodchukker.github.io',
+	base: '/testing',
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
