@@ -5,8 +5,9 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	output: 'static', // Ensures compilation into plain HTML/CSS/JS
-	site: 'https://woodchukker.github.io',
-	base: '/testing',
+	site: 'https://netlify.app',
+	//site: 'https://woodchukker.github.io',
+	//base: '/testing',
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
@@ -16,9 +17,9 @@ export default defineConfig({
 			favicon: '/targeticon.svg',
 			credits: true,
 			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			editLink: {
-				baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
-			},
+			//editLink: {
+			//	baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
+			//},
 			sidebar: [
 				 {
 					label: 'Lov og regler',
