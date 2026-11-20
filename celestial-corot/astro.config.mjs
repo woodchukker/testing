@@ -18,6 +18,17 @@ export default defineConfig({
 			},
 			favicon: '/targeticon.svg',
 			credits: true,
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: 'Norsk',
+					lang: 'nb-NO',
+				},
+				'English': {
+					label: 'English',
+					lang: 'en',
+				},
+			},
 			plugins: [starlightSidebarSwipe()],
 			plugins: [starlightScrollToTop({
 				//position: 'left',
