@@ -13,6 +13,7 @@
     "@astrojs/starlight": "^0.43.1",
     "astro": "^7.4.12",
     "sharp": "^0.35.3",
-    "starlight-scroll-to-top": "^2.0.0"
+    "starlight-scroll-to-top": "^2.0.0",
+    "starlight-sidebar-swipe": "^0.4.1"
   }
 }

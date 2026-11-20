@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightScrollToTop from 'starlight-scroll-to-top';
+import starlightSidebarSwipe from 'starlight-sidebar-swipe';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,6 +18,7 @@ export default defineConfig({
 			},
 			favicon: '/targeticon.svg',
 			credits: true,
+			plugins: [starlightSidebarSwipe()],
 			plugins: [starlightScrollToTop({
 				//position: 'left',
 				//tooltipText: 'Scroll to Top'
