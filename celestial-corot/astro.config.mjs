@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-//Import custom pulgins
+// Import custom plugins
 import starlightScrollToTop from 'starlight-scroll-to-top';
 import starlightSidebarSwipe from 'starlight-sidebar-swipe';
 
@@ -48,8 +48,8 @@ export default defineConfig({
 			// Custom plugins
 			plugins: [starlightSidebarSwipe()], // No config for this plugin, just works.
 			plugins: [starlightScrollToTop({
-				// position: 'left',
-				// tooltipText: 'Scroll to Top'
+				/* position: 'left',
+				tooltipText: 'Scroll to Top' */
 				showProgressRing: 'true',
 				showTooltip: 'true',
 				svgPath: 'M12 5V19M7 10L12 5L17 10'
