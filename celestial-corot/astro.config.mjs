@@ -1,15 +1,22 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+//Import custom pulgins
 import starlightScrollToTop from 'starlight-scroll-to-top';
 import starlightSidebarSwipe from 'starlight-sidebar-swipe';
 
 // https://astro.build/config
 export default defineConfig({
 	output: 'static', // Ensures compilation into plain HTML/CSS/JS
-	//site: 'https://netlify.app',
+
+	/* Netlify and Github Pages url config.
+	Uncomment/comment the relevant site: url
+	for Github pages the editlink further down can also be used
+	for Netlify comment out the base: url */
+	// site: 'https://netlify.app',
 	site: 'https://woodchukker.github.io',
 	base: '/testing',
+
 	integrations: [
 		starlight({
 			title: 'NBF Lov og regler',
@@ -18,6 +25,14 @@ export default defineConfig({
 			},
 			favicon: '/targeticon.svg',
 			credits: true,
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/woodchukker/testing', target: '_blank', rel: 'noopener noreferer'}],
+
+			// When using Github Pages the edit page link under can be used.
+			/* editLink: {
+				baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
+			}, */
+
+			// Language config, norwegian as default
 			defaultLocale: 'root',
 			locales: {
 				root: {
@@ -29,18 +44,19 @@ export default defineConfig({
 					lang: 'en',
 				},
 			},
-			plugins: [starlightSidebarSwipe()],
+
+			// Custom plugins
+			plugins: [starlightSidebarSwipe()], // No config for this plugin, just works.
 			plugins: [starlightScrollToTop({
-				//position: 'left',
-				//tooltipText: 'Scroll to Top'
+				// position: 'left',
+				// tooltipText: 'Scroll to Top'
 				showProgressRing: 'true',
 				showTooltip: 'true',
 				svgPath: 'M12 5V19M7 10L12 5L17 10'
 			})],
-			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			//editLink: {
-			//	baseUrl: 'https://github.com/woodchukker/testing/edit/main/celestial-corot/',
-			//},
+
+			/* Sidebar config, mainly automatic
+			Detailed config in page Frontmatter */
 			sidebar: [
 				 {
 					label: 'Lov og regler',
